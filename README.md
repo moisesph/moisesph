@@ -12,7 +12,7 @@ I'm Moises Pleytez, a student at Brigham Young University-Idaho interested in  c
 ## Technologies and Tools
 
 - Proficient in: C# JavaScript, TypeScript, HTML, CSS, SQL
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Skills: English B2
 
 ## Let's Connect!
 
