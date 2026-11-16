@@ -22,7 +22,11 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 
 <div>
   <a href="https://www.linkedin.com/in/moisespleytez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+       title="LinkedIn"
+       alt="LinkedIn"
+       width="45"
+       height="45"/>
 </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="45" height="45"/>&nbsp;
