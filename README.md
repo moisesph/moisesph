@@ -18,11 +18,9 @@ I'm Moises Pleytez, a student at Brigham Young University-Idaho interested in  c
 
 - [Hospital Project]([https://www.linkedin.com/in/moisespleytez/](https://github.com/moisesph/team07_hospital)  [View](https://sacrament-meetings-git-peer-code-review-moisesph.vercel.app/)
 
-## GitHub Statistics
-
 ![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesph&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesph&layout
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesph&layout=compact&theme=github_dark)
 
 ## Let's Connect!
 
