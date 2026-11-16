@@ -1,16 +1,21 @@
-## Hi there 👋
+# Moises Pleytez
 
-<!--
-**moisesph/moisesph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Moises Pleytez, a student at Brigham Young University-Idaho interested in  computer science, data science, web development, machine learning. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning .NET
+- My goals are to learn implementations with AI
+
+## Technologies and Tools
+
+- Proficient in: C# JavaScript, TypeScript, HTML, CSS, SQL
+- Skills: <Any Other Skills or Tools You Want to Highlight>
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/moisespleytez/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
