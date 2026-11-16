@@ -20,9 +20,11 @@ I'm Moises Pleytez, a student at Brigham Young University-Idaho interested in  c
 
 ## GitHub Statistics
 
-- Public repositories: 6+
-- Main languages: C#, JavaScript, TypeScript, HTML, CSS, and SQL
-- Current focus: .NET and AI implementations
+## GitHub Statistics
+
+![Moises's GitHub Stats](https://github-stats-extended.vercel.app/api?username=moisesph&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=moisesph&layout=compact&theme=github_dark)
 
 ## Let's Connect!
 
