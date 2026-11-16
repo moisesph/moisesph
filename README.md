@@ -22,7 +22,7 @@ I'm Moises Pleytez, a student at Brigham Young University-Idaho interested in  c
 
 ![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesph&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesph&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesph&layout
 
 ## Let's Connect!
 
