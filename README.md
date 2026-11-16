@@ -20,4 +20,4 @@ I'm Moises Pleytez, a student at Brigham Young University-Idaho interested in  c
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
-https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg
+(https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg)
