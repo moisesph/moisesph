@@ -21,13 +21,7 @@ I'm Moises Pleytez, a student at Brigham Young University-Idaho interested in  c
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
 <div>
-  <a href="https://www.linkedin.com/in/moisespleytez/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-       title="LinkedIn"
-       alt="LinkedIn"
-       width="45"
-       height="45"/>
-</a>
+<a href="https://www.linkedin.com/in/moisespleytez/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="45" height="45"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
